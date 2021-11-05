@@ -1,0 +1,27 @@
+.contenedor{
+    max-width: 100%;
+	width: 90%;
+	margin: auto;
+}
+.tarjeta {	
+	border-radius: 5px;
+	padding: 1rem;
+	display: flex;
+	align-items: center;
+	
+	
+}
+
+.tarjeta_fondo{
+	background-color: blue;
+}
+
+.tarjeta_texto{	
+	font-family: 'Courier New', Courier, monospace;
+	margin-left: 30%;
+}
+
+.tarjeta_texto--color{
+	color: chartreuse;
+}
+
